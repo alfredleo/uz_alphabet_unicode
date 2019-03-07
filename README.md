@@ -65,9 +65,15 @@ Uzbek language string manipulation tests. Unicode support. Uzbek Latin and Cyril
 
 ![Проект обновленного узбекского алфавита](images/new_changes.jpg?raw=true "Проект обновленного узбекского алфавита")
 
+We need to somehow distinguish uzbek latin and uzbek cyrillic. [Uzbek language codes]
+- uz	Uzbek
+- uz-UZ-Cyrl	Uzbek (Cyrillic) - Uzbekistan
+- uz-UZ-Latn	Uzbek (Latin) - Uzbekistan
+I propose to use `uz` for current latin, and `uz-UZ-Cyrl` as cyrillic version.
 
 [Uzbek alphabet unicode from Wikipedia]: https://en.wikipedia.org/wiki/Uzbek_alphabet
 [Unicode uzbek link]: https://www.unicode.org/udhr/n/notes_uzn_latn.html
 [Gazeta.uz new changes]: https://www.gazeta.uz/ru/2018/11/06/alphabet/
 [Uza.uz project link]: http://www.uza.uz/oz/society/lotin-yezuviga-asoslangan-zbek-alifbosi-a-ida-ishchi-guru-ni-06-11-2018?m=y&ELEMENT_CODE=lotin-yezuviga-asoslangan-zbek-alifbosi-a-ida-ishchi-guru-ni-06-11-2018&SECTION_CODE=society
 [Conversion from cyrillic to latin]: https://www.lexilogos.com/keyboard/uzbek_conversion.htm
+[Uzbek language codes]: https://docs.sdl.com/LiveContent/content/en-US/SDL_MediaManager_241/concept_A9F20DF9433C46FF8FED8FA11A29FAA0
