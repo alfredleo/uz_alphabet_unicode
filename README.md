@@ -7,6 +7,7 @@ Uzbek language string manipulation tests. Unicode support. Uzbek Latin and Cyril
 * [Gazeta.uz new changes]
 * [Uzbek alphabet unicode from Wikipedia]
 * [Unicode uzbek link]
+* [Conversion from cyrillic to latin]
 
 **Changes supported by the committee.**
 
@@ -69,3 +70,4 @@ Uzbek language string manipulation tests. Unicode support. Uzbek Latin and Cyril
 [Unicode uzbek link]: https://www.unicode.org/udhr/n/notes_uzn_latn.html
 [Gazeta.uz new changes]: https://www.gazeta.uz/ru/2018/11/06/alphabet/
 [Uza.uz project link]: http://www.uza.uz/oz/society/lotin-yezuviga-asoslangan-zbek-alifbosi-a-ida-ishchi-guru-ni-06-11-2018?m=y&ELEMENT_CODE=lotin-yezuviga-asoslangan-zbek-alifbosi-a-ida-ishchi-guru-ni-06-11-2018&SECTION_CODE=society
+[Conversion from cyrillic to latin]: https://www.lexilogos.com/keyboard/uzbek_conversion.htm
