@@ -69,6 +69,7 @@ We need to somehow distinguish uzbek latin and uzbek cyrillic. [Uzbek language c
 - uz	Uzbek
 - uz-UZ-Cyrl	Uzbek (Cyrillic) - Uzbekistan
 - uz-UZ-Latn	Uzbek (Latin) - Uzbekistan
+
 I propose to use `uz` for current latin, and `uz-UZ-Cyrl` as cyrillic version.
 
 [Uzbek alphabet unicode from Wikipedia]: https://en.wikipedia.org/wiki/Uzbek_alphabet
